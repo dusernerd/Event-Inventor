@@ -1,0 +1,9 @@
+email,password,name
+harvard.student@gmail.com,harvarder123
+
+dasd@gmail.com,dsadasd546,dsad
+at@gmail.com,546dsadsdas,At
+dsa@gmail.com,456dsadsa,dsa
+arrtt@gmail.com,123dsada,Artt
+
+arthu.gerasimenko@gmail.com,123arthur123,Arthur Gerasimenko
